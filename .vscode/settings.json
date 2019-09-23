@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "DatingApp.API/bin/Release/netcoreapp2.2/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e6ee3d37-3d52-4786-a678-7876746e6b1f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/DT27"
+}
