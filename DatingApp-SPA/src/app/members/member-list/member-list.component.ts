@@ -3,7 +3,6 @@ import { Component, OnInit } from '@angular/core';
 import { AlertifyService } from '../../_services/alertify.service';
 import { UserService } from '../../_services/user.service';
 import { User } from '../../_models/user';
-import { runInThisContext } from 'vm';
 
 @Component({
   selector: 'app-member-list',
